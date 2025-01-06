@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Company_Employee_database/static/css/main.79817361.css",
-    "main.js": "/Company_Employee_database/static/js/main.e4a9453b.js",
-    "static/media/1.png": "/Company_Employee_database/static/media/1.0135277c00c5fb5fd45e.png",
-    "index.html": "/Company_Employee_database/index.html",
-    "main.79817361.css.map": "/Company_Employee_database/static/css/main.79817361.css.map",
-    "main.e4a9453b.js.map": "/Company_Employee_database/static/js/main.e4a9453b.js.map"
+    "main.css": "/EM-app/static/css/main.79817361.css",
+    "main.js": "/EM-app/static/js/main.b0d3df21.js",
+    "static/media/1.png": "/EM-app/static/media/1.0135277c00c5fb5fd45e.png",
+    "index.html": "/EM-app/index.html",
+    "main.79817361.css.map": "/EM-app/static/css/main.79817361.css.map",
+    "main.b0d3df21.js.map": "/EM-app/static/js/main.b0d3df21.js.map"
   },
   "entrypoints": [
     "static/css/main.79817361.css",
-    "static/js/main.e4a9453b.js"
+    "static/js/main.b0d3df21.js"
   ]
 }
